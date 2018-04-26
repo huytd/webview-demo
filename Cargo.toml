@@ -1,0 +1,7 @@
+[package]
+name = "webview-demo"
+version = "0.1.0"
+authors = ["Huy <kingbazoka@gmail.com>"]
+
+[dependencies]
+web-view = { git = "https://github.com/huytd/web-view.git" }
